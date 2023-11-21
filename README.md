@@ -1,6 +1,6 @@
 # 🚀 Born2beroot
 
-Born2beroot is a system administration project from 42 school. The project is designed to offer practical experience in setting up a virtual machine, installing a Linux-based operating system, and configuring it to meet a set of specific requirements.
+Born2beroot is a system administration project. The project is designed to offer practical experience in setting up a virtual machine, installing a Linux-based operating system, and configuring it to meet a set of specific requirements.
 
 ![Born2beroot GIF](https://media.tenor.com/FHSANLwBWD4AAAAi/linux-linux-power.gif)
 
