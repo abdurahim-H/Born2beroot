@@ -157,7 +157,3 @@ After setting up the server, you can access it through the terminal of your virt
 ## 📝 Contributing
 
 This project is a part of 42 school curriculum, contributions are not open.
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
