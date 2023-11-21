@@ -2,7 +2,7 @@
 
 Born2beroot is a system administration project from 42 school. The project is designed to offer practical experience in setting up a virtual machine, installing a Linux-based operating system, and configuring it to meet a set of specific requirements.
 
-![Born2beroot GIF](https://tenor.com/view/linux-linux-power-unix-gif-22307603)
+![Born2beroot GIF](https://media.tenor.com/FHSANLwBWD4AAAAi/linux-linux-power.gif)
 
 The project covers a range of system administration topics including partitioning, user management, permissions, sudoers rules, and basic shell scripting. It also emphasizes on the importance of security, requiring the implementation of several security measures such as setting up a strong password policy and using SELinux or AppArmor.
 
